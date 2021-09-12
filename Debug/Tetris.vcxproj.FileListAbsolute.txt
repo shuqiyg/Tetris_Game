@@ -1,0 +1,2 @@
+C:\Users\ysq13\OneDrive - Seneca\CPA_Semester_3\OOP345\Tetris\Debug\Tetris.exe
+C:\Users\ysq13\OneDrive - Seneca\CPA_Semester_3\OOP345\Tetris\Debug\Tetris.pdb
